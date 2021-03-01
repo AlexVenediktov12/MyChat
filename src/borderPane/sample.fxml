@@ -1,0 +1,22 @@
+<?import javafx.scene.layout.BorderPane?>
+<?import java.net.URL?>
+<?import javafx.scene.control.Button?>
+<BorderPane fx:controller="borderPane.Controller"
+            xmlns:fx="http://javafx.com/fxml">
+       <stylesheets>
+        <URL value="@/css/style.css">
+
+        </URL>
+    </stylesheets>
+
+    <center>
+
+    </center>
+
+    <bottom>
+
+        <Button text="Enter"/>
+    </bottom>
+
+
+</BorderPane>
